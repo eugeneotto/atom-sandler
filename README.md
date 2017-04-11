@@ -1,1 +1,1 @@
-# atom-sandler.github.io
+# a cosmos.network validation team
